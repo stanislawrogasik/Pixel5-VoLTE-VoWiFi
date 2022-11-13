@@ -12,7 +12,7 @@ It uses:
 
 - Magisk
 
-- Few Magisk modules(because I like to have multiple modules instead of one),
+- Magisk module(from Magisk folder),
 
 - Windows(tested on Windows 10 - unfortunately EFS tools doesn't work with Linux),
 
