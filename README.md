@@ -42,14 +42,7 @@ In this example, I'll assume that you've them in folder **C:\Users\User\Download
 6. Put your **MBN** and **MCFG_autoselect_by_uim** to EfsTools folder (on your PC, they should in the same folder as program called **EfsTools.exe**)
 7. Flash module(in Magisk) and reboot device
 8. Connect your device to the PC
-9. Launch powershell/CMD and go into EFSTools folder(example: go to the  **C:\Users\\<User\>\Downloads\EfsTools**), then launch this command:
-```
-EfsTools.exe efsInfo
-```
-example screenshot:
-
-![image](https://user-images.githubusercontent.com/90356612/167317539-2410f24c-898e-4592-add7-bd90818ac5af.png)
-
+9. Launch powershell/CMD and go into EFSTools folder
 
 10. Launch **adb shell** in the console(powershell/CMD), after you get a console launch those commands one by one:
 ```
@@ -68,6 +61,11 @@ diag_mdlog
 11. Do CTRL+C(to stop diag_mdlog). Then change USB to file transfer mode, unplug the device then plug it back to the PC.
 
 12. You should see your device with command(Powershell/CMD) `efsTools.exe efsInfo` if not open an issue and I'll try to help or try to reboot device. 
+
+example screenshot:
+
+![image](https://user-images.githubusercontent.com/90356612/167317539-2410f24c-898e-4592-add7-bd90818ac5af.png)
+
 
 13. Launch those commands in CMD/Powershell with EfsTools (in video I did also with "-s 1" which means second SIM):
 ```
