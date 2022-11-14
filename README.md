@@ -1,6 +1,6 @@
 # Introduction
 
-This guide allows you to enable VoLTE and VoWiFi on Pixel 5 with Android 12(probably also future androids and previous versions).
+This guide allows you to enable VoLTE and VoWiFi on Pixel 5 with Android 13(probably also future androids and previous versions).
 
 It uses:
 
