@@ -1,0 +1,50 @@
+#Please don't change
+#Networks for special telecom operators
+persist.radio.rat_on=combine
+persist.rcs.supported=0
+persist.radio.data_ltd_sys_ind=1
+persist.radio.data_con_rprt=1
+persist.radio.calls.on.ims=1
+persist.vendor.radio.calls.on.ims=1
+persist.vendor.radio.force_ltd_sys_ind=1
+persist.vendor.radio.data_ltd_sys_ind=1
+persist.vendor.radio.enable_temp_dds=true
+persist.vendor.radio.redir_party_num=1
+persist.vendor.radio.force_on_dc=true
+persist.sys.strictmode.disable=true
+persist.radio.dynamic_sar=false
+persist.vendor.radio.data_con_rprt=1
+persist.vendor.dpm.feature=1
+#persist.vendor.radio.mbn_load_flag=3
+#persist.vendor.radio.mbn_wait_s=60
+#persist.vendor.radio.manual_nw_rej_ct=1
+persist.vendor.radio.data_con_rprt=1
+#persist.vendor.radio.manual_nw_rej_ct=1
+ro.telephony.default_cdma_sub=0
+ril.subscription.types=RUIM
+persist.radio.force_on_dc=true
+
+#VoLTE,VoNR
+persist.radio.NO_STAPA=1
+persist.dbg.volte_avail_ovr=1
+persist.dbg.vt_avail_ovr=1
+persist.radio.VT_HYBRID_ENABLE=1
+persist.dbg.wfc_avail_ovr=1
+persist.dbg.ims_volte_enable=1
+
+#5G
+#persist.vendor.radio.5g=1
+#persist.vendor.radio.5g_mode_pref=1
+#persist.vendor.radio.5g_mode_pref_0=1
+#persist.vendor.radio.5g_mode_pref_1=1
+persist.nubia.5g.power.config=1
+ro.nubia.nr.support=1
+
+#VoWifi
+persist.data.iwlan.enable=true
+persist.data.iwlan=1
+persist.data.iwlan.ipsec.ap=1
+
+#adjustable configuration
+#for special NR attributes 0: not support 1:nsa 2:sa 3: 1+2
+ro.vendor.radio.5g=3

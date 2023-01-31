@@ -1,0 +1,7 @@
+id=Pixel5VolteVoWiFi
+name=Pixel 5 - VoLTE/WiFi/5G
+version=v1.0
+versionCode=100
+author=StanislawRogasik
+description=Module which replaces MBNs and enables VoLTE/VoWiFi/5G
+#updateJson=
