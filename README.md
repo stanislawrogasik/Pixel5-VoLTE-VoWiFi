@@ -25,13 +25,14 @@ If not, send private message on XDA to [me](https://forum.xda-developers.com/m/v
 ## Verified
 - Pixel 5 - StockOS - Orange Poland - VoLTE & VoWiFi
 - Pixel 5 - Orange Romania - VoLTE & VoWiFi & 5G
+- Pixel 5 - Orange T-Mobile - VoLTE & VoWiFi
 
 ## Difference between this module and ender-zhao module
 - Doesn't enforce 5G
 - After loosing connection to the network provider the original module didn't load MBN back again. We had to restart Pixel5
 
 # Credits
-- Big thanks to one guy from XDA with testing module and feedback
+- Big thanks to [mightyvenom](https://forum.xda-developers.com/m/mightyvenom.4163960/) from XDA with testing module and feedback
 - Big thanks to ender-zhao for providing initial Magisk Module
 
 # QPST/EFS Method
