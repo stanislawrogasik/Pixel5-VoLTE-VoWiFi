@@ -12,7 +12,7 @@ If not, send private message on XDA to [me](https://forum.xda-developers.com/m/v
 3. Reboot & enjoy 
 
 ## Features
-- **Doesn't enforce 5G** - you can't still select LTE only if your current provider plan doesn't support 5G
+- **Doesn't enforce 5G** - you can still select LTE only if your current provider plan doesn't support 5G
 - Enables VoLTE
 - Enables VoWiFi
 - Enables 5G support
