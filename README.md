@@ -18,10 +18,6 @@ If not, send private message on XDA to [me](https://forum.xda-developers.com/m/v
 - Enables 5G support
 - Properly loads MBN back, when the network connection is poor/dropped
 
-## Bugs
-- Google Play system **can't update**, when this module is enabled
-    - Workaround: disable module, reboot phone, download&apply update, apply module again
-
 ## Verified
 - Pixel 5 - StockOS - Orange Poland - VoLTE & VoWiFi
 - Pixel 5 - Orange Romania - VoLTE & VoWiFi & 5G
