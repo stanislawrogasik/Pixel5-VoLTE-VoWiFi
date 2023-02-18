@@ -1,4 +1,4 @@
-### 1.01 - 2023-02-08
+### 1.0.1 - 2023-02-08
 - Added new MBNs(from K30 5G and Vivo X50 - only diff to Nokia)
 - Fixed REPO(update.json and module.prop)
 
