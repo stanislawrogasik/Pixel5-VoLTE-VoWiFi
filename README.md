@@ -1,4 +1,4 @@
-# Pixel 4a 5G/Pixel 5 VoLTE VoWiFi 5G in unsupported countries
+# Pixel 4a 5G/Pixel 5/Pixel 5a VoLTE VoWiFi 5G in unsupported countries
 ## Introduction
 This module enables VoLTE & VoWiFi & 5G in unsupported carriers worldwide :)
 
